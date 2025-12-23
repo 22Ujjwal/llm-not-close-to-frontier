@@ -1,3 +1,3 @@
-# Things to ConsiderL
+# Things in Consideration
  
- ## Tokenization
+ ## Tokenizer, Architecture and Training, Systems (Kernels, Parallelism, and Inference), Scaling Laws, Data Curation, Alignment
